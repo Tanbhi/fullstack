@@ -1,0 +1,253 @@
+$background-color: white;
+
+$primary-color: #4D7EF6;
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.landing {
+    background-color: $background-color;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    .icon {
+        margin: 4px;
+    }
+}
+
+.landing-left {
+    min-height: 100vh;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.landing-right {
+    background-color: #EBBC56;
+    min-height: 100vh;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.primary-button {
+    background-color: $primary-color;
+    color: white;
+    padding: 15px 45px 15px 45px;
+    border-radius: 50px;
+    border: none;
+}
+
+.landing-left-2 {
+    background-color:#4D7EF6;
+    min-height: 100vh;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.landing-right-2 {
+    background-color:white;
+    min-height: 100vh;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.landing-green {
+    background-color:#BCDCC1;
+    min-height: 100vh;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.landing-black {
+    background-color: #4A4A4A;
+    min-height: 100vh;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.landing-cyan {
+    background-color:#80E4C8;
+    min-height: 100vh;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.landing-lastone {
+    background-color:#222222;
+    min-height: 50vh;
+    width: 100%;
+    display: flex;
+    justify-content: flex;
+    align-items: flex;
+
+}
+
+.landing-write-2{
+
+width: 590px;
+height: 71px;
+left: 137px;
+top: 4911px;
+font-family: 'Poppins';
+font-size: 15px;
+//display: flex right;
+text-align: right;
+align-items: center;
+color: #000000;
+}
+.landing-write-3{
+
+    width: 590px;
+    height: 132px;
+    left: 137px;
+    top: 5839px;
+    
+    font-family: 'Poppins';
+    text-align: flex;
+    font-size: 12px;
+    display: flex ;
+    text-align: left;
+    align-items: center;
+    color: #000000;
+    
+}
+.landing-write-4{
+
+    width: 590px;
+    height: 71px;
+    left: 137px;
+    top: 4911px;
+    font-family: 'Poppins';
+    font-size: 15px;
+    text-align: left;
+    align-items: center;
+    color: #000000;
+    }
+
+    .landing-write-5{
+
+        width: 590px;
+        height: 71px;
+        left: 137px;
+        top: 4911px;
+        font-family: 'Poppins';
+        text-align: flex;
+        font-size: 12px;
+        display: flex ;
+        text-align: right;
+        align-items: center;
+        color: #000000;
+        
+    }
+    .landing-links-1{
+        display: right;
+        //align-items: flex;
+        text-align: right;
+        font-size: 14px;
+        color: #4D7EF6;
+
+    }
+    .landing-links-2{
+        display: left;
+        //align-items: flex;
+        text-align: left;
+        font-size: 14px;
+        color: #4D7EF6;
+
+    }
+    .landing-top{
+        
+        // width: 590px;
+        // height: 71px;
+        // left: 137px;
+        // top: 5768px;
+
+        font-family: 'Poppins';
+        font-style: normal;
+        //font-weight: 700;
+        font-size: 15px;
+        line-height: 72px;
+        display: flex;
+        align-items: justify
+        ;
+
+        color: #F5F5F5;
+    }
+    .landing-two{
+
+        width: 590px;
+        height: 132px;
+        left: 137px;
+        top: 5839px;
+        
+        font-family: 'Nunito Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        //line-height: 12px;
+        display: inline-flex;
+        align-items: flex-end;
+        align-items: left;
+        text-align: left;
+        color: #F5F5F5;
+    //width: 50%;
+    }
+    .landing-dit{
+        display: flex;
+    }
+    .landing5 {
+        background-color: black;
+        height: 70vh;
+        width: 100%;
+        display: flex;
+        position: absolute;
+        left: 0px;
+        top: 3685px;
+    
+    }
+    
+    .landing-left5 {
+        min-height: 132px;
+        left:50px;
+        width: 590px;
+        display: flex ;
+        justify-content: center;
+        align-items: center;
+        color: white;
+    }
+    
+    .landing-right5 {
+      
+        height: 70vh;
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        left: 100vh;
+        top: 0vh;
+    
+    }
+.landing-port
+{
+position: absolute;
+width: 250px;
+height: 250px;
+left: 941px;
+top: 3365px;
+
+    
+}
